@@ -1,0 +1,30 @@
+{
+  "store_name": "BlankOS Official App Store",
+  "repository_url": "https://github.com/airskye1/blankOS-App-Store",
+  "apps": [
+    {
+      "id": "com.blankos.discord",
+      "name": "Discord",
+      "version": "1.0.0",
+      "author": "airskye",
+      "description": "Native chat client utilizing Discord REST APIs.",
+      "download_url": "https://raw.githubusercontent.com/airskye1/blankOS-App-Store/main/apps/discord.bloe"
+    },
+    {
+      "id": "com.blankos.youtube",
+      "name": "YouTube",
+      "version": "1.0.0",
+      "author": "airskye",
+      "description": "Video browsing app connecting to YouTube Data API v3.",
+      "download_url": "https://raw.githubusercontent.com/airskye1/blankOS-App-Store/main/apps/youtube.bloe"
+    },
+    {
+      "id": "com.blankos.x",
+      "name": "X",
+      "version": "1.0.0",
+      "author": "airskye",
+      "description": "Micro-blogging client connecting to the X API v2.",
+      "download_url": "https://raw.githubusercontent.com/airskye1/blankOS-App-Store/main/apps/x.bloe"
+    }
+  ]
+}
